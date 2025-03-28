@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Ola 👋 tudo bem?</h1>
 
 ###
 
-<p align="left">Olá! Sou um estudante apaixonado por informática, atualmente graduando em Sistemas de Informação (SI) na FIAP, e formado como técnico de informática pela FECAP. Estou em busca de uma oportunidade de estágio que me permita aplicar meus conhecimentos teóricos e práticos em um ambiente profissional.</p>
+<p align="left">Sou um estudante apaixonado por informática, atualmente graduando em Sistemas de Informação (SI) na FIAP, e formado como técnico de informática pela FECAP. Estou em busca de uma oportunidade de estágio que me permita aplicar meus conhecimentos teóricos e práticos em um ambiente profissional.</p>
 
 ###
 
