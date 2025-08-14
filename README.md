@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">Programo em</h2>
+<h2 align="left">LinkedIn</h2>
 
 ###
 
